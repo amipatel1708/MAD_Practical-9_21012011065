@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
         <TextView
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
@@ -63,7 +62,6 @@
                         android:layout_marginTop="8dp"
                         android:text="Check Current time by looking below real digital clock."
                         android:textAppearance="?attr/textAppearanceBody2" />
-
 
                     <ImageView
                         android:id="@+id/imageView1"
